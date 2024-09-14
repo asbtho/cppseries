@@ -2,3 +2,5 @@ Debug/
 *.vcxproj.filters
 *.vcxproj.user
 *.vcxproj
+*.o
+*.obj
