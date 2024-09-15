@@ -1,6 +1,8 @@
 Debug/
+.vscode/
 *.vcxproj.filters
 *.vcxproj.user
 *.vcxproj
 *.o
 *.obj
+*.exe
