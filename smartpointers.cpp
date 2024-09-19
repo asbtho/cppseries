@@ -18,4 +18,4 @@ int main(){
     std::shared_ptr<Entity> sharedEntity = std::make_shared<Entity>();
 
     std::cin.get();
-} 
+}
